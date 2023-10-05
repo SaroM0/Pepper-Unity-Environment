@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall Pepper meshes
+Comment=Uninstall
+Icon=
+Exec=/home/carlos/sinfonia_ws/src/sinfonia_resources/pepper/config/uninstall
+Terminal=false
+Path=/home/carlos/sinfonia_ws/src/sinfonia_resources/pepper/config
