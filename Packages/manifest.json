@@ -2,6 +2,7 @@
   "dependencies": {
     "com.unity.collab-proxy": "2.0.7",
     "com.unity.feature.development": "1.0.1",
+    "com.unity.formats.fbx": "4.2.1",
     "com.unity.robotics.ros-tcp-connector": "https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.ros-tcp-connector",
     "com.unity.robotics.urdf-importer": "https://github.com/Unity-Technologies/URDF-Importer.git?path=/com.unity.robotics.urdf-importer#v0.5.2",
     "com.unity.textmeshpro": "3.0.6",
